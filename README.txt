@@ -19,6 +19,8 @@ After activating the plugin, insert the `[post_suggest_form]` shortcode into the
 
 Once a user submits a suggestion, they will receive feedback indicating whether the submission was successful or not.
 
+Installing [Really Simple Captcha](https://wordpress.org/plugins/really-simple-captcha/) will automatically add a captcha to your suggestion form.
+
 == Screenshots ==
 1. Screenshot of the article suggestion form.
 
@@ -28,6 +30,9 @@ Users can submit articles by filling out the form generated with the `[post_sugg
 
 = How do I know if an article suggestion was successful? =
 After submission, users will receive feedback on the success or failure of their suggestion.
+
+= How do I add a captch to my suggestion form? =
+By installing [Really Simple Captcha](https://wordpress.org/plugins/really-simple-captcha/) a captcha will automatically be added to your suggestion form.
 
 == Changelog ==
 = 1.0 =
